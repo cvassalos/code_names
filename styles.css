@@ -1,0 +1,11 @@
+.card_row {
+    display: flex;
+    margin: 2rem;
+}   
+
+.word_card {
+    width: 200px;
+    height: 100px;
+    margin: 1rem 2rem;
+    background-color: black;
+}
