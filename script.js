@@ -1,3 +1,5 @@
-let words = document.querySelectorAll("word")
+let words = document.querySelectorAll(".word")
 
-words.innerHTML = "test" 
+for (let i = 0; i < words.length; i++) {
+    words[i].innerHTML = "test";
+}
